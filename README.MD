@@ -5,6 +5,7 @@ This repository serves as a digital lab notebook for tracking my experimental pr
 3. Links to relevant assets and repositories
 
 ## Log Entries
+* [2026-03-12](log_2026-03-12.md) bond chip2 and check for impedance mismatch. 
 * [2026-03-11](log_2026-03-11.md) Learn how to wire bond and measure the box.
 * [2026-03-10](log_2026-03-10.md) Start this logbook and measure the chips for microwave packaging experiments. 
 
